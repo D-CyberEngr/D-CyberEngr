@@ -10,13 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/D-CyberEngr">
-    <img src="https://img.shields.io/badge/GitHub-D__CyberEngr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub logo" height="36" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/egbedimiracle">
-    <img src="https://img.shields.io/badge/LinkedIn-Miracle%20Egbedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="LinkedIn logo" height="36" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/D_CyberEngr">
-    <img src="https://img.shields.io/badge/X-@D__CyberEngr-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X logo on a white background" height="36" />
   </a>
 </p>
 
@@ -79,30 +81,78 @@ My training has introduced me to information security risks, security controls, 
 
 ## Training and Certifications
 
-### Google Cybersecurity Professional Certificate | Coursera
+### Google Cybersecurity Professional Certificate
+
+<p align="left">
+  <a href="https://grow.google/certificates/cybersecurity/">
+    <img src="https://static.vecteezy.com/system/resources/previews/042/165/816/non_2x/google-logo-transparent-free-png.png" alt="Google logo" width="46" align="left" />
+  </a>
+  <strong>Google Cybersecurity Professional Certificate</strong><br/>
+  <sub>Completed</sub>
+</p>
 
 Completed the Google Cybersecurity Professional Certificate, covering foundational cybersecurity concepts, security operations, Linux, SQL, network security, risk management, and incident response.
 
-### TS Academy | Cybersecurity
+<br clear="left"/>
+
+### TS Academy | Cybersecurity Training
+
+<p align="left">
+  <a href="https://m.youtube.com/channel/UC-B_3CFVWOI5d2Uim70ySuQ/about">
+    <img src="https://yt3.googleusercontent.com/LEy5LdfsvRgw6gCe_kp9i3i7TgBK1w4ROawteFyPsCZrMEz_nqejHTIFQ2GqgktWeTAH372FAw=s900-c-k-c0x00ffffff-no-rj" alt="TS Academy logo" width="48" align="left" />
+  </a>
+  <strong>TS Academy Cybersecurity Training</strong><br/>
+  <sub>Exposure to SOC and GRC concepts</sub>
+</p>
 
 Undertook cybersecurity training with exposure to Security Operations Centre (SOC) practices and Governance, Risk and Compliance (GRC) concepts.
 
+<br clear="left"/>
+
 ### Cisco Networking Academy | NetAcad
 
+<p align="left">
+  <a href="https://www.netacad.com/">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="Cisco logo" width="58" align="left" />
+  </a>
+  <strong>Introduction to Cybersecurity and Networking</strong><br/>
+  <sub>Cisco Networking Academy</sub>
+</p>
+
 Completed training in Introduction to Cybersecurity and Networking, strengthening my understanding of cybersecurity fundamentals and network technologies.
+
+<br clear="left"/>
 
 These programmes complement my engineering background and provide a foundation for continued technical development in defensive security and industrial cybersecurity.
 
 ## Tools and Technologies
 
-I have used or explored the following tools through training, technical exercises, and home labs:
+I have used or explored the following tools through training, technical exercises, and home labs.
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/wazuh/005571" alt="Wazuh" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" width="42" height="42" />
+<p align="center">
+  <a href="https://ubuntu.com/">
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu logo" height="46" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.kali.org/">
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux logo" height="46" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wazuh.com/">
+    <img src="https://img.shields.io/badge/Wazuh-FFFFFF?style=for-the-badge&logo=wazuh&logoColor=000000" alt="Wazuh logo on a white background" height="46" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.wireshark.org/">
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark logo" height="46" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.virtualbox.org/">
+    <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox logo" height="46" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Ubuntu · Kali Linux · Wazuh · Wireshark · VirtualBox</sub>
 </p>
 
 - **Operating systems:** Ubuntu and Kali Linux.
@@ -177,17 +227,17 @@ I welcome opportunities to contribute, learn from experienced professionals, and
 
 ## Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/D-CyberEngr">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub logo" height="38" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/egbedimiracle">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" />
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMS0xMC5wbmc.png" alt="LinkedIn logo" height="38" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/D_CyberEngr">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="36" height="36" />
+    <img src="https://img.shields.io/badge/X-FFFFFF?style=flat&logo=x&logoColor=000000" alt="X logo on a white background" height="38" />
   </a>
 </p>
 
